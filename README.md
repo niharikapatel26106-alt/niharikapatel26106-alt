@@ -1,8 +1,12 @@
 # Hi, I'm Niharika Patel 👋
 
-💻 **BSc IT Student | Full-Stack Developer**
+💻 Full-Stack Developer | React • Laravel • Node.js
 
-I am a BSc IT student passionate about building real-world applications, exploring modern technologies, and improving my development skills through practical projects.
+🎓 BSc IT Student | Building real-world web applications
+
+BSc IT student with hands-on experience developing web applications through academic group projects. Currently working with a team on a full-stack digital identity project while continuously improving my frontend, backend, database, and problem-solving skills.
+
+Currently exploring React, Node.js, Laravel, Python, Artificial Intelligence, and Machine Learning.
 
 ---
 
@@ -74,56 +78,77 @@ Currently learning and working on:
 
 ---
 
-## 📌 Featured Projects
+🚀 Featured Projects
+🔐 WhiteCard — Smart Digital Identity Wallet
 
-### 🌐 Kaleido — Website Project (Semester 2)
+Semester 5 | Current Group Project | 🚧 In Development
 
-A website developed during Semester 2 to learn the fundamentals of web development, including webpage structure, styling, and user interaction.
+A full-stack digital identity management platform currently being developed as a group project. The system focuses on secure and user-friendly digital identity management.
 
-**Tech Stack:** HTML • CSS • JavaScript
+Tech Stack: React.js • Tailwind CSS • Node.js • Express.js • MySQL
 
-**Status:** ✅ Completed
-
----
-
-### 🅿️ Spotto — Smart Parking System (Semester 3 Project)
-
-A smart parking web application developed to help users find and explore parking locations through an interactive and user-friendly interface.
-
-**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
-
-**Status:** ✅ Completed
+🔗 Repository: Coming Soon
 
 ---
 
-### 🎟️ EventSphere — Event Management System (Semester 4 Project)
+🎟️ EventSphere — Event Management System
 
-A web-based event management system developed using Laravel to manage and organize events efficiently.
+Semester 4 | Group Project | ✅ Completed
 
-**Tech Stack:** Laravel • PHP • MySQL • HTML • CSS • JavaScript
+A web-based event management system developed as a group project to manage and organize events efficiently.
 
-**Status:** ✅ Completed
+Tech Stack: Laravel • PHP • MySQL • HTML • CSS • JavaScript
 
----
-
-### 🔐 WhiteCard — Smart Digital Identity Wallet (Current Project)
-
-A full-stack digital identity management system currently under development. The project focuses on creating a secure platform for managing digital identity information through a unified interface.
-
-**Tech Stack:** React.js • Tailwind CSS • Node.js • Express.js • MySQL
-
-**Status:** 🚧 In Development
+🔗 Repository: Add Repository Link
 
 ---
 
-## 🤖 Currently Exploring
+🅿️ Spotto — Smart Parking System
 
-- Artificial Intelligence
-- Machine Learning
-- Data Mining
-- REST API Development
-- Authentication & Security
-- Modern Full-Stack Development
+Semester 3 | Group Project | ✅ Completed
+
+A smart parking web application developed as a group project to help users find and explore parking locations through an interactive interface.
+
+Tech Stack: HTML • CSS • JavaScript • PHP • MySQL
+
+🔗 Repository: Add Repository Link
+
+---
+
+🌐 Kaleido — Website Project
+
+Semester 2 | Group Project | ✅ Completed
+
+A website developed as a group project to learn and apply the fundamentals of web development, including webpage structure, styling, and user interaction.
+
+Tech Stack: HTML • CSS • JavaScript
+
+🔗 Repository: Add Repository Link
+
+---
+
+🎓 Education
+
+Bachelor of Science in Information Technology (BSc IT)
+
+Currently developing skills in:
+
+Web Development
+Database Management
+Software Development
+Artificial Intelligence
+Data Mining
+Machine Learning Concepts
+
+---
+
+🤖 Currently Exploring
+Artificial Intelligence
+Machine Learning
+Data Mining
+REST API Development
+Authentication & Security
+Modern Full-Stack Development
 
 ---
 
@@ -157,9 +182,10 @@ To become a skilled software developer by creating practical applications, impro
 
 ## 📊 GitHub Stats
 
-![Niharika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niharikapatel26106-alt&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niharikapatel26106-alt&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niharikapatel26106-alt&show_icons=true&theme=transparent" alt="Niharika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharikapatel26106-alt&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
 
 ---
 
