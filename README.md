@@ -87,8 +87,6 @@ A full-stack digital identity management platform currently being developed as a
 
 Tech Stack: React.js • Tailwind CSS • Node.js • Express.js • MySQL
 
-🔗 Repository: Coming Soon
-
 ---
 
 🎟️ EventSphere — Event Management System
@@ -98,8 +96,6 @@ Semester 4 | Group Project | ✅ Completed
 A web-based event management system developed as a group project to manage and organize events efficiently.
 
 Tech Stack: Laravel • PHP • MySQL • HTML • CSS • JavaScript
-
-🔗 Repository: Add Repository Link
 
 ---
 
@@ -111,8 +107,6 @@ A smart parking web application developed as a group project to help users find 
 
 Tech Stack: HTML • CSS • JavaScript • PHP • MySQL
 
-🔗 Repository: Add Repository Link
-
 ---
 
 🌐 Kaleido — Website Project
@@ -122,8 +116,6 @@ Semester 2 | Group Project | ✅ Completed
 A website developed as a group project to learn and apply the fundamentals of web development, including webpage structure, styling, and user interaction.
 
 Tech Stack: HTML • CSS • JavaScript
-
-🔗 Repository: Add Repository Link
 
 ---
 
@@ -180,11 +172,17 @@ To become a skilled software developer by creating practical applications, impro
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niharikapatel26106-alt&show_icons=true&theme=transparent" alt="Niharika's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharikapatel26106-alt&layout=compact&theme=transparent" alt="Top Languages" />
+  <img
+    src="https://streak-stats.demolab.com?user=niharikapatel26106-alt&theme=transparent&hide_border=true"
+    alt="Niharika's GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <i>Learning • Building • Collaborating • Growing 🚀</i>
 </p>
 
 ---
