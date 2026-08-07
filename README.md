@@ -1,12 +1,12 @@
 # Hi, I'm Niharika Patel 👋
 
-💻 Full-Stack Developer | React • Laravel • Node.js
+### 💻 Full-Stack Developer | React • Laravel • Node.js
 
 🎓 BSc IT Student | Building real-world web applications
 
-BSc IT student with hands-on experience developing web applications through academic group projects. Currently working with a team on a full-stack digital identity project while continuously improving my frontend, backend, database, and problem-solving skills.
+BSc IT student with hands-on experience developing web applications through academic group projects. Currently working with a team on a full-stack digital identity project while improving my frontend, backend, database, and problem-solving skills.
 
-Currently exploring React, Node.js, Laravel, Python, Artificial Intelligence, and Machine Learning.
+🌱 Currently exploring React, Node.js, Laravel, Python, Artificial Intelligence, and Machine Learning.
 
 ---
 
@@ -14,7 +14,7 @@ Currently exploring React, Node.js, Laravel, Python, Artificial Intelligence, an
 
 - 🎓 BSc IT Student
 - 💻 Full-Stack Web Development enthusiast
-- 🌱 Currently learning React, Node.js, Python and Artificial Intelligence
+- 🌱 Currently learning React, Node.js, Python, and Artificial Intelligence
 - 🔐 Interested in secure and user-friendly digital applications
 - 🚀 Building projects to improve my programming and problem-solving skills
 
@@ -52,6 +52,9 @@ Currently exploring React, Node.js, Laravel, Python, Artificial Intelligence, an
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -63,11 +66,53 @@ Currently exploring React, Node.js, Laravel, Python, Artificial Intelligence, an
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔐 WhiteCard — Smart Digital Identity Wallet
+
+**Semester 5 | Current Group Project | 🚧 In Development**
+
+A full-stack digital identity management platform currently being developed as a group project. The system focuses on secure and user-friendly digital identity management.
+
+**Tech Stack:** React.js • Tailwind CSS • Node.js • Express.js • MySQL
+
+---
+
+### 🎟️ EventSphere — Event Management System
+
+**Semester 4 | Group Project | ✅ Completed**
+
+A web-based event management system developed as a group project to manage and organize events efficiently.
+
+**Tech Stack:** Laravel • PHP • MySQL • HTML • CSS • JavaScript
+
+---
+
+### 🅿️ Spotto — Smart Parking System
+
+**Semester 3 | Group Project | ✅ Completed**
+
+A smart parking web application developed as a group project to help users find and explore parking locations through an interactive interface.
+
+**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
+
+---
+
+### 🌐 Kaleido — Website Project
+
+**Semester 2 | Group Project | ✅ Completed**
+
+A website developed as a group project to learn and apply the fundamentals of web development, including webpage structure, styling, and user interaction.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+---
+
 ## 🎓 Education
 
 **Bachelor of Science in Information Technology (BSc IT)**
 
-Currently learning and working on:
+Currently developing skills in:
 
 - Web Development
 - Database Management
@@ -78,83 +123,28 @@ Currently learning and working on:
 
 ---
 
-🚀 Featured Projects
-🔐 WhiteCard — Smart Digital Identity Wallet
+## 🤖 Currently Exploring
 
-Semester 5 | Current Group Project | 🚧 In Development
-
-A full-stack digital identity management platform currently being developed as a group project. The system focuses on secure and user-friendly digital identity management.
-
-Tech Stack: React.js • Tailwind CSS • Node.js • Express.js • MySQL
-
----
-
-🎟️ EventSphere — Event Management System
-
-Semester 4 | Group Project | ✅ Completed
-
-A web-based event management system developed as a group project to manage and organize events efficiently.
-
-Tech Stack: Laravel • PHP • MySQL • HTML • CSS • JavaScript
-
----
-
-🅿️ Spotto — Smart Parking System
-
-Semester 3 | Group Project | ✅ Completed
-
-A smart parking web application developed as a group project to help users find and explore parking locations through an interactive interface.
-
-Tech Stack: HTML • CSS • JavaScript • PHP • MySQL
-
----
-
-🌐 Kaleido — Website Project
-
-Semester 2 | Group Project | ✅ Completed
-
-A website developed as a group project to learn and apply the fundamentals of web development, including webpage structure, styling, and user interaction.
-
-Tech Stack: HTML • CSS • JavaScript
-
----
-
-🎓 Education
-
-Bachelor of Science in Information Technology (BSc IT)
-
-Currently developing skills in:
-
-Web Development
-Database Management
-Software Development
-Artificial Intelligence
-Data Mining
-Machine Learning Concepts
-
----
-
-🤖 Currently Exploring
-Artificial Intelligence
-Machine Learning
-Data Mining
-REST API Development
-Authentication & Security
-Modern Full-Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Data Mining
+- REST API Development
+- Authentication & Security
+- Modern Full-Stack Development
 
 ---
 
 ## 🏆 Certifications
 
-- 📜 Introduction to HTML5 — [Coursera Certificate](https://coursera.org/share/40b04341288db491ec58e8af7da3a56a)
-- 📜 C for Everyone, Part 1: Programming Fundamentals — [Coursera Certificate](https://coursera.org/share/36eaaaf54361c7ab46de113d49a2138a)
-- 📜 Oracle SQL Databases — [Coursera Certificate](https://coursera.org/share/e21c0110406ca1efe2527cb6ec0334c0)
-- 📜 Interactivity with JavaScript — [Coursera Certificate](https://coursera.org/share/2f5a393db96e439882688ace5935cb43)
-- 📜 C++ For C Programmers, Part A — [Coursera Certificate](https://coursera.org/share/18fa4e9f8f7ef2fa7e5805e1aad91089)
-- 📜 C++ For C Programmers, Part B — [Coursera Certificate](https://coursera.org/share/120ba2804dea9b9eb08e10d6feab1e91)
-- 📜 XHTML - Advanced Server Side Programming with PHP — [Coursera Certificate](https://coursera.org/share/ba320acf8c06c3050e4048c5ea6d68de)
-- 📜 Programming for Everybody (Getting Started with Python) — [Coursera Certificate](https://coursera.org/share/c922d8fdfa70332c6df0a73e6546f6c8)
-- 📜 Master AI for Digital Marketing & Content Creation — [Coursera Certificate](https://coursera.org/share/71755fd179f0dd5468ac9239bf2574e8)
+- 📜 [Introduction to HTML5 — Coursera Certificate](https://coursera.org/share/40b04341288db491ec58e8af7da3a56a)
+- 📜 [C for Everyone, Part 1: Programming Fundamentals — Coursera Certificate](https://coursera.org/share/36eaaaf54361c7ab46de113d49a2138a)
+- 📜 [Oracle SQL Databases — Coursera Certificate](https://coursera.org/share/e21c0110406ca1efe2527cb6ec0334c0)
+- 📜 [Interactivity with JavaScript — Coursera Certificate](https://coursera.org/share/2f5a393db96e439882688ace5935cb43)
+- 📜 [C++ For C Programmers, Part A — Coursera Certificate](https://coursera.org/share/18fa4e9f8f7ef2fa7e5805e1aad91089)
+- 📜 [C++ For C Programmers, Part B — Coursera Certificate](https://coursera.org/share/120ba2804dea9b9eb08e10d6feab1e91)
+- 📜 [XHTML - Advanced Server Side Programming with PHP — Coursera Certificate](https://coursera.org/share/ba320acf8c06c3050e4048c5ea6d68de)
+- 📜 [Programming for Everybody (Getting Started with Python) — Coursera Certificate](https://coursera.org/share/c922d8fdfa70332c6df0a73e6546f6c8)
+- 📜 [Master AI for Digital Marketing & Content Creation — Coursera Certificate](https://coursera.org/share/71755fd179f0dd5468ac9239bf2574e9)
 
 ---
 
@@ -163,12 +153,6 @@ Modern Full-Stack Development
 - 🚀 Building academic and personal software projects
 - 💻 Participating in coding competitions and hackathons
 - 📚 Continuously learning new technologies
-
----
-
-## 🎯 Goal
-
-To become a skilled software developer by creating practical applications, improving problem-solving abilities, and contributing to innovative technology solutions.
 
 ---
 
@@ -189,6 +173,8 @@ To become a skilled software developer by creating practical applications, impro
 
 ## 📫 Connect With Me
 
-- GitHub: [@niharikapatel26106-alt](https://github.com/niharikapatel26106-alt)
+- 💻 GitHub: [@niharikapatel26106-alt](https://github.com/niharikapatel26106-alt)
+
+---
 
 ⭐ Thanks for visiting my profile!
