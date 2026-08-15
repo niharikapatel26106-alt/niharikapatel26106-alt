@@ -106,6 +106,7 @@ A website developed as a group project to learn and apply the fundamentals of we
 
 **Tech Stack:** HTML • CSS • JavaScript
 
+🔗 **Repository:** [View Kaleido Beauty & Cosmetics on GitHub](https://github.com/niharikapatel26106-alt/kaleido-beauty-cosmetics)
 ---
 
 ## 🎓 Education
