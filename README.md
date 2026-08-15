@@ -104,9 +104,11 @@ A smart parking web application developed as a group project to help users find 
 
 A website developed as a group project to learn and apply the fundamentals of web development, including webpage structure, styling, and user interaction.
 
+**Team:** Niharika Patel • Arpita Patadiya
+
 **Tech Stack:** HTML • CSS • JavaScript
 
-🔗 [View Repository](https://github.com/niharikapatel26106-alt/kaleido-beauty-cosmetics)
+🔗 **Repository:** [View Kaleido Beauty & Cosmetics on GitHub](https://github.com/niharikapatel26106-alt/kaleido-beauty-cosmetics)
 
 ---
 
