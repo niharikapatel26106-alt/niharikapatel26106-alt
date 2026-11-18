@@ -225,14 +225,18 @@ Currently developing knowledge in:
 
 ## 📫 Connect With Me
 
-\<p align="left">
-&#x20; \<a href="[https://github.com/niharikapatel26106-alt](https://github.com/niharikapatel26106-alt)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="mailto\:niharikapatel26106\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+<p align="left">
+  <a href="https://github.com/niharikapatel26106-alt">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:niharikapatel26106@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+📧 **Email:** [niharikapatel26106@gmail.com](mailto:niharikapatel26106@gmail.com)
+
+📍 **Location:** Ahmedabad, Gujarat, India
 
 📧 **Email:** [niharikapatel26106@gmail.com](mailto\:niharikapatel26106@gmail.com)
 
