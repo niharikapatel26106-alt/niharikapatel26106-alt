@@ -1,28 +1,33 @@
 # Hi, I'm Niharika Patel 👋
 
-### 💻 Full-Stack Developer | React • Laravel • Node.js
+### 💻 Full-Stack Developer | React • Laravel • Node.js | AI & ML Enthusiast
 
 🎓 BSc IT Student | Building real-world web applications
 
-BSc IT student with hands-on experience developing web applications through academic group projects. Currently working with a team on a full-stack digital identity project while improving my frontend, backend, database, and problem-solving skills.
+I am a BSc IT student passionate about developing modern, responsive, and user-friendly web applications. I enjoy exploring new technologies, solving problems, and turning ideas into practical software solutions.
 
-🌱 Currently exploring React, Node.js, Laravel, Python, Artificial Intelligence, and Machine Learning.
+Currently, I am working with a team on a full-stack digital identity management project while strengthening my frontend, backend, database, and software development skills.
+
+🌱 Exploring React, Node.js, Laravel, Python, Artificial Intelligence, and Machine Learning.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BSc IT Student
-- 💻 Full-Stack Web Development enthusiast
-- 🌱 Currently learning React, Node.js, Python, and Artificial Intelligence
+- 🎓 Bachelor of Science in Information Technology (BSc IT) Student
+- 💻 Interested in Full-Stack Web Development
+- 🌐 Experienced in building web applications using PHP, Laravel, React, and JavaScript
 - 🔐 Interested in secure and user-friendly digital applications
-- 🚀 Building projects to improve my programming and problem-solving skills
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🚀 Learning through academic projects and practical development
+- 📍 Ahmedabad, Gujarat, India
 
 ---
 
+
 ## 🛠️ Skills & Technologies
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,23 +35,17 @@ BSc IT student with hands-on experience developing web applications through acad
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
----
-
-### 🗄️ Database
+### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
 
 ### 💻 Programming Languages
 
@@ -56,13 +55,12 @@ BSc IT student with hands-on experience developing web applications through acad
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
-
-### 🛠️ Tools
+### 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
@@ -72,9 +70,19 @@ BSc IT student with hands-on experience developing web applications through acad
 
 **Semester 5 | Current Group Project | 🚧 In Development**
 
-A full-stack digital identity management platform currently being developed as a group project. The system focuses on secure and user-friendly digital identity management.
+A full-stack digital identity management platform designed to help users securely manage their digital identity documents in one place.
 
-**Tech Stack:** React.js • Tailwind CSS • Node.js • Express.js • MySQL
+**Key Features & Development Focus:**
+
+- Digital identity document management
+- User authentication and account management
+- Secure document storage
+- User-friendly dashboard
+- Driving Licence and Passport document management
+
+**Tech Stack:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB
+
+🔗 **Repository:** Coming Soon
 
 ---
 
@@ -82,31 +90,59 @@ A full-stack digital identity management platform currently being developed as a
 
 **Semester 4 | Group Project | ✅ Completed**
 
-A web-based event management system developed as a group project to manage and organize events efficiently.
+A web-based event management system developed to simplify event organization and management.
+
+**Key Focus:**
+
+- Event management
+- User-friendly interface
+- Event organization
+- Database integration
 
 **Tech Stack:** Laravel • PHP • MySQL • HTML • CSS • JavaScript
 
+🔗 **Repository:** Coming Soon
+
 ---
 
-### 🅿️ Spotto — Smart Parking System
+### 🅿️ Spotto — Smart Parking Management System
 
 **Semester 3 | Group Project | ✅ Completed**
 
-A smart parking web application developed as a group project to help users find and explore parking locations through an interactive interface.
+A web-based parking management system designed to help users explore parking locations and manage parking-related activities.
 
-**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
+**Key Features:**
+
+- User and admin dashboards
+- Parking slot management
+- Booking management
+- Vehicle management
+- Payment and subscription management
+- Reports and analytics
+
+**Tech Stack:** PHP • MySQL • HTML • CSS • JavaScript
+
+🔗 **Repository:** [View Spotto on GitHub](https://github.com/niharikapatel26106-alt/spotto-parking-management-system)
 
 ---
 
-### 🌐 Kaleido — Website Project
+### 💄 Kaleido — Beauty & Cosmetics Website
 
-**Semester 2 | Group Project | ✅ Completed**
+**Semester 2 | WDT-II Group Project | ✅ Completed**
 
-A website developed as a group project to learn and apply the fundamentals of web development, including webpage structure, styling, and user interaction.
+A makeup and beauty cosmetics website developed to practice frontend web development and create an interactive shopping experience.
 
-**Team:** Niharika Patel • Arpita Patadiya
+**Key Features:**
 
-**Tech Stack:** HTML • CSS • JavaScript
+- Beauty and cosmetics product categories
+- Face, eye, lip, and nail products
+- Skincare products
+- Responsive website design
+- Interactive user interface
+
+**Team Members:** Niharika Patel • Arpita Patadiya
+
+**Tech Stack:** HTML5 • CSS3 • JavaScript
 
 🔗 **Repository:** [View Kaleido Beauty & Cosmetics on GitHub](https://github.com/niharikapatel26106-alt/kaleido-beauty-cosmetics)
 
@@ -116,7 +152,7 @@ A website developed as a group project to learn and apply the fundamentals of we
 
 **Bachelor of Science in Information Technology (BSc IT)**
 
-Currently developing skills in:
+Currently developing knowledge in:
 
 - Web Development
 - Database Management
@@ -127,28 +163,32 @@ Currently developing skills in:
 
 ---
 
-## 🤖 Currently Exploring
+## 🤖 Currently Learning & Exploring
 
+- Advanced React.js Development
+- Node.js and REST API Development
+- Authentication and Application Security
+- Python Programming
 - Artificial Intelligence
 - Machine Learning
 - Data Mining
-- REST API Development
-- Authentication & Security
 - Modern Full-Stack Development
 
 ---
 
 ## 🏆 Certifications
 
-- 📜 [Introduction to HTML5 — Coursera Certificate](https://coursera.org/share/40b04341288db491ec58e8af7da3a56a)
-- 📜 [C for Everyone, Part 1: Programming Fundamentals — Coursera Certificate](https://coursera.org/share/36eaaaf54361c7ab46de113d49a2138a)
-- 📜 [Oracle SQL Databases — Coursera Certificate](https://coursera.org/share/e21c0110406ca1efe2527cb6ec0334c0)
-- 📜 [Interactivity with JavaScript — Coursera Certificate](https://coursera.org/share/2f5a393db96e439882688ace5935cb43)
-- 📜 [C++ For C Programmers, Part A — Coursera Certificate](https://coursera.org/share/18fa4e9f8f7ef2fa7e5805e1aad91089)
-- 📜 [C++ For C Programmers, Part B — Coursera Certificate](https://coursera.org/share/120ba2804dea9b9eb08e10d6feab1e91)
-- 📜 [XHTML - Advanced Server Side Programming with PHP — Coursera Certificate](https://coursera.org/share/ba320acf8c06c3050e4048c5ea6d68de)
-- 📜 [Programming for Everybody (Getting Started with Python) — Coursera Certificate](https://coursera.org/share/c922d8fdfa70332c6df0a73e6546f6c8)
-- 📜 [Master AI for Digital Marketing & Content Creation — Coursera Certificate](https://coursera.org/share/71755fd179f0dd5468ac9239bf2574e9)
+📜 **Coursera Certificates**
+
+1. [Introduction to HTML5](https://coursera.org/share/40b04341288db491ec58e8af7da3a56a)
+2. [C for Everyone, Part 1: Programming Fundamentals](https://coursera.org/share/36eaaaf54361c7ab46de113d49a2138a)
+3. [Oracle SQL Databases](https://coursera.org/share/e21c0110406ca1efe2527cb6ec0334c0)
+4. [Interactivity with JavaScript](https://coursera.org/share/2f5a393db96e439882688ace5935cb43)
+5. [C++ For C Programmers, Part A](https://coursera.org/share/18fa4e9f8f7ef2fa7e5805e1aad91089)
+6. [C++ For C Programmers, Part B](https://coursera.org/share/120ba2804dea9b9eb08e10d6feab1e91)
+7. [XHTML - Advanced Server Side Programming with PHP](https://coursera.org/share/ba320acf8c06c3050e4048c5ea6d68de)
+8. [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/c922d8fdfa70332c6df0a73e6546f6c8)
+9. [Master AI for Digital Marketing & Content Creation](https://coursera.org/share/71755fd179f0dd5468ac9239bf2574e9)
 
 ---
 
@@ -157,16 +197,24 @@ Currently developing skills in:
 - 🚀 Building academic and personal software projects
 - 💻 Participating in coding competitions and hackathons
 - 📚 Continuously learning new technologies
+- 🤝 Collaborating on group development projects
+- 🌱 Improving technical and problem-solving skills
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niharikapatel26106-alt&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharikapatel26106-alt&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=niharikapatel26106-alt&theme=transparent&hide_border=true"
-    alt="Niharika's GitHub Contribution Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=niharikapatel26106-alt&theme=tokyonight&hide_border=true" alt="Niharika's GitHub Contribution Streak" />
 </p>
 
 <p align="center">
@@ -177,8 +225,21 @@ Currently developing skills in:
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: [@niharikapatel26106-alt](https://github.com/niharikapatel26106-alt)
+\<p align="left">
+&#x20; \<a href="[https://github.com/niharikapatel26106-alt](https://github.com/niharikapatel26106-alt)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:niharikapatel26106\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+&#x20; \</a>
+\</p>
+
+📧 **Email:** [niharikapatel26106@gmail.com](mailto\:niharikapatel26106@gmail.com)
+
+📍 **Location:** Ahmedabad, Gujarat, India
 
 ---
 
-⭐ Thanks for visiting my profile!
+\<h3 align="center">⭐ Thanks for visiting my profile!\</h3>
+
+\<h4 align="center">Learning • Building • Collaborating • Growing 🚀\</h4>
