@@ -238,8 +238,16 @@ Currently developing knowledge in:
 
 📍 **Location:** Ahmedabad, Gujarat, India
 
+
 ---
 
-\<h3 align="center">⭐ Thanks for visiting my profile!\</h3>
+<h3 align="center">⭐ Thanks for Visiting My GitHub Profile!</h3>
 
-\<h4 align="center">Learning • Building • Collaborating • Growing 🚀\</h4>
+<p align="center">
+  <i>Learning • Building • Innovating • Growing 🚀</i>
+</p>
+
+<p align="center">
+  <b>Let's connect, collaborate, and create something amazing!</b>
+</p>
+
