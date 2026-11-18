@@ -238,10 +238,6 @@ Currently developing knowledge in:
 
 📍 **Location:** Ahmedabad, Gujarat, India
 
-📧 **Email:** [niharikapatel26106@gmail.com](mailto\:niharikapatel26106@gmail.com)
-
-📍 **Location:** Ahmedabad, Gujarat, India
-
 ---
 
 \<h3 align="center">⭐ Thanks for visiting my profile!\</h3>
